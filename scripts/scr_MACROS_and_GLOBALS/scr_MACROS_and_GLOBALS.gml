@@ -1,8 +1,8 @@
 // Game context
 #macro game_fps 60
-#macro window_height 720
-#macro window_width 1280
-#macro window_x_center 640
+#macro window_height 700	
+#macro window_width 700
+#macro window_x_center 350
 // /Game context
 
 // Misc Util
