@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "4ed3f4a8-c499-4380-a71f-181cc8baedc4",
+            "Value": {
+                "id": "60f91d59-a87b-4609-b82b-48dc9093edf2",
+                "resourcePath": "objects\\obj_Circle\\obj_Circle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4f3e9a70-2e0f-4e5f-8f7a-fcbc921c2a80",
             "Value": {
                 "id": "25cc5e3e-d05a-4dec-a07d-59c360e60ad0",
@@ -556,6 +564,14 @@
                 "id": "38c7ac40-1f6e-4b2b-b0d3-48f36bf4f2d1",
                 "resourcePath": "scripts\\scr_Splitsfont_Set_RotationSpeed\\scr_Splitsfont_Set_RotationSpeed.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7091280d-4684-4d6e-8534-618171da6649",
+            "Value": {
+                "id": "ebc76eef-8682-4a91-9cd4-21cd9d5b5e33",
+                "resourcePath": "objects\\obj_InnerCircle\\obj_InnerCircle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -820,6 +836,14 @@
                 "id": "ed944a92-8b30-4d3f-acb8-4486d084f93d",
                 "resourcePath": "notes\\TODO.yy",
                 "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "c08bd0d9-59eb-4029-8587-fdd32dc90560",
+            "Value": {
+                "id": "d26ebebc-e807-4b7d-8f93-bd592b254063",
+                "resourcePath": "objects\\obj_OuterCircle\\obj_OuterCircle.yy",
+                "resourceType": "GMObject"
             }
         },
         {

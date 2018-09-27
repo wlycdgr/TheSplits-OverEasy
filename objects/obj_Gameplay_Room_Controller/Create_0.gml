@@ -14,3 +14,7 @@ paused_sliding_ribbon = instance_create_layer(
 // has just been deactivated
 steam_overlay_activated_this_step = false;
 steam_overlay_activated_last_step = false;
+
+// GAME SPECIFIC LOGIC
+inner_circle = instance_create_layer(not_set, not_set, "Instances", obj_InnerCircle);
+outer_circle = instance_create_layer(not_set, not_set, "Instances", obj_OuterCircle);
