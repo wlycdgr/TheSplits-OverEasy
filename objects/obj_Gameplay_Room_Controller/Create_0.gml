@@ -16,5 +16,6 @@ steam_overlay_activated_this_step = false;
 steam_overlay_activated_last_step = false;
 
 // GAME SPECIFIC LOGIC
-inner_circle = instance_create_layer(not_set, not_set, "Instances", obj_InnerCircle);
-outer_circle = instance_create_layer(not_set, not_set, "Instances", obj_OuterCircle);
+inner_circle = instance_create_layer(not_set, not_set, "InnerCircle", obj_InnerCircle);
+outer_circle = instance_create_layer(not_set, not_set, "OuterCircle", obj_OuterCircle);
+playpan = instance_create_layer(not_set, not_set, "Playpan", obj_Playpan);

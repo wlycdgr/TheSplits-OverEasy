@@ -1039,6 +1039,14 @@
             }
         },
         {
+            "Key": "f276def6-2e4a-4060-835c-bcdc036dd513",
+            "Value": {
+                "id": "5642a7b9-7f28-4b7e-8911-a131e05d9e53",
+                "resourcePath": "objects\\obj_Playpan\\obj_Playpan.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f31d779d-8f4b-455f-a654-8f02f49f713c",
             "Value": {
                 "id": "1d5cec69-796e-4148-bb11-bcb1c3462628",
