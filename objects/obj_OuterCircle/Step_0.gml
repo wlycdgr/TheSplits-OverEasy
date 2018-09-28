@@ -19,3 +19,7 @@ move_towards_point(
 	y + yv*100,
 	mag_point * 5
 );
+
+
+radius -= 0.25;
+radius += mag_point;
