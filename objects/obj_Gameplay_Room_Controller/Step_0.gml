@@ -36,6 +36,9 @@ case gs_paused:
 case gs_playing:
 	if (global.input_tracker.is_pause_pressed) 
 		{ event_user(1); } // on pause
+	
+	if (player.fatal_collision)
+		{ event_user(0); }
 		
 	break;
 		

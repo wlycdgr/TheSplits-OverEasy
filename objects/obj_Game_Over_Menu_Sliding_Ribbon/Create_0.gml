@@ -1,10 +1,10 @@
 /// @description Init header and menu
 header_string = instance_create_layer(0, 0, "Splitsfont", obj_Splitsfont_String);
 scr_Splitsfont_Set_Text(header_string, "GAME OVER");
-scr_Splitsfont_Set_Tweaks(header_string, [0.06, 0.038, 0.06, 0, 0]);
+scr_Splitsfont_Set_Tweaks(header_string, [0.09, 0.02, 0.04, 0, 0]);
 
 // for both too bad and great job texts
-scr_Splitsfont_Set_DefaultTweaks([0.025, 0.003, 0.004, 0, 30]);
+scr_Splitsfont_Set_DefaultTweaks([0.02, 0.0015, 0.002, 0, 30]);
 var sliding_ribbon_x_center = sliding_ribbon_width / 2;
 
 too_bad_texts = [
@@ -14,7 +14,7 @@ too_bad_texts = [
 	"YOU MAY DEVELOP GREATER SELF RESPECT IF YOU DO NOT GIVE UP",
 	"TO GIVE UP MAY BE SHAMEFUL BUT TO PERSIST MAY BE FOOLISH",
 	"TRUST THE PROCESS",
-	"IT IS OFTEN VERY USEFUL TO BELIEVE THAT SUCCESS IS A MATTER OF PERSONAL EFFORT AND RESOLVE",
+	"IT IS USEFUL TO BELIEVE THAT SUCCESS IS A MATTER OF DETERMINED EFFORT",
 	"PRACTICE LETTING GO: IN THIS WAY YOU CAN PREPARE FOR DEATH",
 	"FRUSTRATION IS WEAKNESS LEAVING THE MIND",
 	"PRACTICE EVERY DAY AND YOU WILL PROBABLY IMPROVE"
@@ -29,7 +29,7 @@ for (var i = 0; i < too_bad_strings_count; i++) {
 		sliding_ribbon_x_center -
 		(scr_Splitsfont_Get_Width(too_bad_string) / 2);
 }
-too_bad_string_y = 0.5 * window_height;
+too_bad_string_y = 0.55 * window_height;
 too_bad_string_x_offset=  0;
 too_bad_string_x = 0;
 

@@ -1,6 +1,9 @@
 /// @description Insert description here
 
-if (obj_Gameplay_Room_Controller.state != gs_playing) exit;
+if (obj_Gameplay_Room_Controller.state != gs_playing){
+	speed = 0;
+	exit;
+}
 
 // radius change change
 radius_change_increase_counter += 1;
