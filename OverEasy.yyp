@@ -975,14 +975,6 @@
             }
         },
         {
-            "Key": "e23a7fd3-0b94-4cc0-b500-0a5e16221018",
-            "Value": {
-                "id": "ec76b28c-1472-4f50-bcae-de59f248cd31",
-                "resourcePath": "rooms\\r_MyLogo\\r_MyLogo.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "e44767aa-adf5-4ed6-a89d-30a8186be7d3",
             "Value": {
                 "id": "2afbbda6-1994-4b7b-8ea9-38176357e3ff",
@@ -1068,14 +1060,6 @@
                 "id": "a9240952-66b6-4172-8ce7-daf063adcc1e",
                 "resourcePath": "scripts\\scr_SlidePath_Reset\\scr_SlidePath_Reset.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "fbe2a034-9f20-48b0-8dc5-65d9da4784be",
-            "Value": {
-                "id": "ceb72804-36da-4595-a51c-64f24ca30f63",
-                "resourcePath": "rooms\\r_GameMakerAndRaylibLogos\\r_GameMakerAndRaylibLogos.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
