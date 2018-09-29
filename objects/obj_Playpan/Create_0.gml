@@ -12,7 +12,9 @@ dot_spacing = 12;
 
 for (var i = left_x; i < right_x; i += dot_spacing){
 	for (var j = top_y; j < bottom_y; j += dot_spacing){
-		point_alphas[i, j] = 0.2;
+		point_alphas[i, j] = 0;
 		point_in_pan[i, j] = point_distance(x, y, i, j) < radius;
 	}
 }
+
+point_alphas_total = 0;

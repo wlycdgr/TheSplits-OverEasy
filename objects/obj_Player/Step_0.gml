@@ -9,3 +9,10 @@ if (
 ){
 	fatal_collision = true;
 }
+
+else if (
+	obj_Playpan.radius <=
+	(obj_OuterCircle.radius + point_distance(obj_Playpan.x, obj_Playpan.y, obj_OuterCircle.x, obj_OuterCircle.y))
+){
+	fatal_collision = true;
+}
