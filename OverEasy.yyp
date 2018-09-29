@@ -199,27 +199,11 @@
             }
         },
         {
-            "Key": "2e049f42-4676-4a32-a67d-49e06956c020",
-            "Value": {
-                "id": "3d3c66a4-021a-4985-8960-06efac1db850",
-                "resourcePath": "objects\\obj_Entity\\obj_Entity.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "2ec7eaea-694d-44c0-9bbe-ed37a029a7ea",
             "Value": {
                 "id": "05e00461-4e18-4cf5-b37f-7d4878adc91c",
                 "resourcePath": "views\\2ec7eaea-694d-44c0-9bbe-ed37a029a7ea.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "31f1e911-4028-4935-8cf3-11aac57f7547",
-            "Value": {
-                "id": "087594e6-5aaf-4bb4-8035-f1ff71fc28ff",
-                "resourcePath": "objects\\obj_Energy\\obj_Energy.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -279,14 +263,6 @@
             }
         },
         {
-            "Key": "3cacfbe1-5d40-49c0-a474-4bebb2b005d9",
-            "Value": {
-                "id": "3407c8f7-6175-48c6-9bbd-030cf81a79c5",
-                "resourcePath": "objects\\obj_Entity_Generator\\obj_Entity_Generator.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "3e7a42be-8c44-436d-ab55-42e3afb4fecd",
             "Value": {
                 "id": "df93c7ef-4044-493c-9e08-159e37e096b9",
@@ -316,14 +292,6 @@
                 "id": "99f7eedb-910e-4123-869e-77e312a4b73b",
                 "resourcePath": "scripts\\scr_Menu_Selection_Made\\scr_Menu_Selection_Made.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "41bb65e6-8dcd-4531-9701-4345ab375ba0",
-            "Value": {
-                "id": "9af31cad-784e-48ce-a5a7-d72010b301e1",
-                "resourcePath": "views\\41bb65e6-8dcd-4531-9701-4345ab375ba0.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -495,14 +463,6 @@
             }
         },
         {
-            "Key": "67631ef1-79cb-4597-83c4-13e8ca6cff81",
-            "Value": {
-                "id": "423f1191-738c-49eb-a1bd-5c3a2aa620d0",
-                "resourcePath": "objects\\obj_Enemy_Generator\\obj_Enemy_Generator.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "678f5e16-9839-48e9-837c-a3b611f73331",
             "Value": {
                 "id": "ea632c9e-f1cc-40c5-8019-786d0a0bd899",
@@ -588,14 +548,6 @@
                 "id": "2e5af8b3-d72a-410f-96ae-49889bc41156",
                 "resourcePath": "views\\801025d6-437f-4a5c-97f2-fcf5cc5e2db3.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "87855e48-cff5-455a-96fb-cd6300ec0690",
-            "Value": {
-                "id": "2652eff3-7326-425a-a1e3-75ecfc0fb442",
-                "resourcePath": "objects\\obj_Energy_Generator\\obj_Energy_Generator.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -739,14 +691,6 @@
             "Value": {
                 "id": "e02a88a9-4972-42ac-ae74-d164b0417e08",
                 "resourcePath": "objects\\obj_SoundManager\\obj_SoundManager.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "b29c19b6-ef21-4d43-ae4e-19588f7ac1fd",
-            "Value": {
-                "id": "8eb5e698-f4ce-415b-81e8-b22cee28b1fb",
-                "resourcePath": "objects\\obj_Enemy\\obj_Enemy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1036,14 +980,6 @@
                 "id": "a9240952-66b6-4172-8ce7-daf063adcc1e",
                 "resourcePath": "scripts\\scr_SlidePath_Reset\\scr_SlidePath_Reset.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "fea23623-1329-491e-85bd-d3b6737917eb",
-            "Value": {
-                "id": "294f6278-1e40-468e-88a3-2d97df9c743c",
-                "resourcePath": "views\\fea23623-1329-491e-85bd-d3b6737917eb.yy",
-                "resourceType": "GMFolder"
             }
         }
     ],
