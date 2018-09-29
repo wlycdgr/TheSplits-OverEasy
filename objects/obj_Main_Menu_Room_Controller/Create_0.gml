@@ -70,5 +70,5 @@ main_menu = scr_Menu_NEW(
 
 credits_string = instance_create_layer(0, 0, "Splitsfont", obj_Splitsfont_String);
 scr_Splitsfont_Set_Text(credits_string, "A THE SPLITS GAME BY WLY_CDGR. WITH SOME SOUNDS AND COLORS BY MARLEY HALL.")
-scr_Splitsfont_Set_Tweaks(credits_string, [0.01, 0.0004, 0.01, 0, 0]);
+scr_Splitsfont_Set_Tweaks(credits_string, [0.01, 0.0004, 0.007, 0, 0]);
 credits_string_x = room_width / 2 - scr_Splitsfont_Get_Width(credits_string) / 2;
