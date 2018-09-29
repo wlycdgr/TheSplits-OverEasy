@@ -21,5 +21,5 @@ move_towards_point(
 );
 
 
-radius -= 0.25;
+radius -= 0.1;
 radius += mag_point;
