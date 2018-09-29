@@ -8,8 +8,10 @@ top_y = y - radius;
 right_x = x + radius;
 bottom_y = y + radius;
 
-for (var i = left_x; i < right_x; i += 4){
-	for (var j = top_y; j < bottom_y; j += 4){
+dot_spacing = 12;
+
+for (var i = left_x; i < right_x; i += dot_spacing){
+	for (var j = top_y; j < bottom_y; j += dot_spacing){
 		point_alphas[i, j] = 0.2;
 		point_in_pan[i, j] = point_distance(x, y, i, j) < radius;
 	}
