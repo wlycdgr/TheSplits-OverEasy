@@ -31,10 +31,6 @@ case gs_paused:
 		scr_Menu_Act_On_Selection(paused_sliding_ribbon.menu);
 	}
 	
-	if (player.fatal_collision){
-		event_user(0);
-	}
-	
 	break;
 	
 case gs_playing:

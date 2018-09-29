@@ -1,3 +1,5 @@
+if (obj_Gameplay_Room_Controller.state != gs_playing) exit;
+
 xv = gamepad_axis_value(0, gp_axisrh);
 yv = gamepad_axis_value(0, gp_axisrv);
 

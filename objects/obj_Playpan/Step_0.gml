@@ -1,3 +1,4 @@
 /// @description Insert description here
-// You can write your code in this editor
+if (obj_Gameplay_Room_Controller.state != gs_playing) exit;
+
 //radius -= 0.01;

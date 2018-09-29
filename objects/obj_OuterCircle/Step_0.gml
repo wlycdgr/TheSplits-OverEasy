@@ -1,5 +1,7 @@
 /// @description Insert description here
-// You can write your code in this editor
+
+if (obj_Gameplay_Room_Controller.state != gs_playing) exit;
+
 xv = gamepad_axis_value(0, gp_axislh);
 yv = gamepad_axis_value(0, gp_axislv);
 
