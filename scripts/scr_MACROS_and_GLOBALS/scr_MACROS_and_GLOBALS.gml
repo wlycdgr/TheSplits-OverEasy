@@ -3,6 +3,9 @@
 #macro window_height 700	
 #macro window_width 700
 #macro window_x_center 350
+#macro room_center_x window_height / 2
+#macro room_center_y window_width / 2
+
 // /Game context
 
 // Misc Util
