@@ -1,7 +1,11 @@
 /// @description Navigate menu, twitch
 
+// rotate  title
+scr_Splitsfont_Rotate_String(title1);
+scr_Splitsfont_Rotate_String(title2);
+
 // twitch title
-event_user(0);
+//event_user(0);
 
 // animate & navigate menu
 switch (global.room_state_tracker.state) {
