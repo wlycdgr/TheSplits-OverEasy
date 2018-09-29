@@ -3,4 +3,8 @@
 radius = 50;
 event_inherited();
 
-//if gamepad_is_connected(0) gamepad_set_axis_deadzone(0, 0.05);
+radius_change = 0.25;
+radius_change_increase_step = 0.002;
+radius_change_increase_counter = 0;
+radius_change_increase_period = 60;
+radius_max_change = 0.75;
