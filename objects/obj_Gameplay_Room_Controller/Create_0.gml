@@ -18,3 +18,5 @@ steam_overlay_activated_last_step = false;
 // GAME SPECIFIC LOGIC
 player = instance_create_layer(whatever, whatever, "Controllers", obj_Player);
 playpan = instance_create_layer(room_center_x, room_center_y, "Playpan", obj_Playpan);
+
+counter = 0;

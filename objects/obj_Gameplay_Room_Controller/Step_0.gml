@@ -37,6 +37,12 @@ case gs_playing:
 	if (global.input_tracker.is_pause_pressed) 
 		{ event_user(1); } // on pause
 	
+	counter += obj_InnerCircle.mag_point + obj_OuterCircle.mag_point;
+	if (counter > 6){
+		counter = 0;
+		scr_Play_SFX(snd_fx_SoftPop);
+	}
+	
 	if (player.fatal_collision)
 		{ event_user(0); }
 		

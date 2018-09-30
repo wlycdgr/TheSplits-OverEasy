@@ -663,6 +663,14 @@
             }
         },
         {
+            "Key": "a9a89c0a-2b0d-403b-b4a4-419658b38c5f",
+            "Value": {
+                "id": "f4befd33-1e55-49d1-8466-d51b05004275",
+                "resourcePath": "sounds\\snd_fx_fatal_collision\\snd_fx_fatal_collision.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "aaea3948-1f81-4286-a86f-1a371c318eb3",
             "Value": {
                 "id": "c5f70c44-9a09-4034-beb0-856f1c79c137",

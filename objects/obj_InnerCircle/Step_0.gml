@@ -32,7 +32,7 @@ if (mag_point > 1){
 move_towards_point(
 	x + xv*100,
 	y + yv*100,
-	mag_point * 5
+	mag_point * wly_speed
 );
 
 radius += radius_change;

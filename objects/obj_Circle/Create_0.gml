@@ -5,4 +5,5 @@ y = window_get_height() / 2;
 
 circle_color = make_colour_rgb(255, 57, 103);
 
-draw_set_circle_precision(64);
+wly_speed = 10;
+mag_point = 0;

@@ -16,3 +16,7 @@ else if (
 ){
 	fatal_collision = true;
 }
+
+if (fatal_collision){
+	scr_Play_SFX(snd_fx_fatal_collision);
+}
