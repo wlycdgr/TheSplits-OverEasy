@@ -50,7 +50,7 @@
             "Key": "0267bcb5-29c4-4e95-a6ca-c592be3f1b62",
             "Value": {
                 "id": "25fe5aa5-803c-44be-9eb6-7b9f4a22a85b",
-                "resourcePath": "objects\\obj_Scoreboard\\obj_Scoreboard.yy",
+                "resourcePath": "objects\\obj_OverEasy_Scoreboard\\obj_OverEasy_Scoreboard.yy",
                 "resourceType": "GMObject"
             }
         },
