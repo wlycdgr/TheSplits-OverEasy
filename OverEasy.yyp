@@ -74,7 +74,7 @@
             "Key": "0ac5f62d-3b3b-446f-93ce-b591a9476fee",
             "Value": {
                 "id": "58e2228c-b7fb-4b85-89b3-b4f585ca60e7",
-                "resourcePath": "objects\\obj_Gameplay_Room_Controller\\obj_Gameplay_Room_Controller.yy",
+                "resourcePath": "objects\\obj_OverEasy_Gameplay_Room_Controller\\obj_OverEasy_Gameplay_Room_Controller.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -338,7 +338,7 @@
             "Key": "4ed3f4a8-c499-4380-a71f-181cc8baedc4",
             "Value": {
                 "id": "60f91d59-a87b-4609-b82b-48dc9093edf2",
-                "resourcePath": "objects\\obj_Circle\\obj_Circle.yy",
+                "resourcePath": "objects\\obj_OverEasy_Circle\\obj_OverEasy_Circle.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -514,7 +514,7 @@
             "Key": "7091280d-4684-4d6e-8534-618171da6649",
             "Value": {
                 "id": "ebc76eef-8682-4a91-9cd4-21cd9d5b5e33",
-                "resourcePath": "objects\\obj_InnerCircle\\obj_InnerCircle.yy",
+                "resourcePath": "objects\\obj_OverEasy_InnerCircle\\obj_OverEasy_InnerCircle.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -754,7 +754,7 @@
             "Key": "c08bd0d9-59eb-4029-8587-fdd32dc90560",
             "Value": {
                 "id": "d26ebebc-e807-4b7d-8f93-bd592b254063",
-                "resourcePath": "objects\\obj_OuterCircle\\obj_OuterCircle.yy",
+                "resourcePath": "objects\\obj_OverEasy_OuterCircle\\obj_OverEasy_OuterCircle.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -954,7 +954,7 @@
             "Key": "f276def6-2e4a-4060-835c-bcdc036dd513",
             "Value": {
                 "id": "5642a7b9-7f28-4b7e-8911-a131e05d9e53",
-                "resourcePath": "objects\\obj_Playpan\\obj_Playpan.yy",
+                "resourcePath": "objects\\obj_OverEasy_Playpan\\obj_OverEasy_Playpan.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -978,7 +978,7 @@
             "Key": "f58e8933-8c4b-4f18-94f4-ad992c00b619",
             "Value": {
                 "id": "3e2ebd5a-587f-40dc-b22f-5f3a942a1e16",
-                "resourcePath": "objects\\obj_Player\\obj_Player.yy",
+                "resourcePath": "objects\\obj_OverEasy_Player\\obj_OverEasy_Player.yy",
                 "resourceType": "GMObject"
             }
         },
