@@ -8,10 +8,11 @@ for (var i = left_x; i < right_x; i += dot_spacing){
 		if (!point_in_pan[i, j]) continue;
 		
 		if (point_distance(obj_OverEasy_InnerCircle.x, obj_OverEasy_InnerCircle.y, i, j) < obj_OverEasy_InnerCircle.radius){
-			point_alphas[i, j] += 0.02 + ((1 / (obj_OverEasy_OuterCircle.radius / radius)) * 0.1);
+			point_alphas[i, j] += 0.01 * (400 / obj_OverEasy_OuterCircle.radius); // + ((1 / (obj_OverEasy_OuterCircle.radius / radius)) * 0.1);
+			//0.02 + ((1 / (obj_OverEasy_OuterCircle.radius / radius)) * 0.1);
 		}
 		
-		point_alphas[i, j] = max(0, point_alphas[i, j] - 0.01);
+		//point_alphas[i, j] = max(0, point_alphas[i, j] - 0.01);
 		
 		point_alphas_total += point_alphas[i, j];
 	}

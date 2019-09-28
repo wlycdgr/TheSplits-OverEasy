@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-radius = 50;
+radius = 25;
 event_inherited();
 
 radius_change = 0.25;

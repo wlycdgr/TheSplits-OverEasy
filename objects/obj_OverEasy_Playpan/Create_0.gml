@@ -2,7 +2,7 @@
 // You can write your code in this editor
 radius_decrement_period = 60;
 
-radius = 250;
+radius = 150;
 left_x = x - radius;
 top_y = y - radius;
 right_x = x + radius;

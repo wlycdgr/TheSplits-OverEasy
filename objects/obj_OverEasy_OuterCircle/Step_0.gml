@@ -38,7 +38,12 @@ move_towards_point(
 	mag_point * wly_speed
 );
 
+bigger = gamepad_button_value(0, gp_shoulderrb);
+smaller = gamepad_button_value(0, gp_shoulderlb);
+
+radius += bigger;
+radius -= smaller;
 
 // radius adjustment
-radius -= radius_change;
-radius += mag_point;
+// radius -= radius_change;
+// radius += mag_point;
